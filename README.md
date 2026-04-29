@@ -1,16 +1,21 @@
-## Hi there 👋
+# Jakob Jarefjäll
 
-<!--
-**Jarefjaell/Jarefjaell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fifteen years in digital. Back to building from imagination, the way I used to with Lego.
 
-Here are some ideas to get you started:
+Long-form writing at [lifeaccordingtojay.com](https://lifeaccordingtojay.com), with a small private Node CLI handling the editorial workflow into Ghost.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my work lives behind client confidentiality or on LinkedIn. What sits here is the smaller stuff: tools I built for myself, things noticed in passing, the occasional pipeline.
+
+## Coffee Breaks
+
+In-between nimble things. Built in twenty minutes, useful in twenty seconds.
+
+- [claude-code-uhoh-hook](https://gist.github.com/Jarefjaell/7f30611aab068f6e05d840000470b918): drop-in notification hook for Claude Code
+
+## Projects
+
+Bigger builds with budgets and milestones.
+
+- **BurnerCookie** (Firefox extension, public alpha soon): per-domain control over tracker storage, with awareness of the persistence patterns common identity vendors rely on. Sits alongside, not in place of, third-party cookie blocking.
+- **Job-search assistant** (in progress): personal research workflow that scores opportunities I have already collected against my own background and prepares context for tailored applications. Local-only, single-user, no automated retrieval.
+- **Bifrost** (research, on hold): session-based local AI workspace unifying LM Studio, SD Forge, and XTTS. Designed around the session as the persistent object holding text, images, audio, and service state. Master's-thesis scope, on slow burn while solo.
