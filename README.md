@@ -10,7 +10,7 @@ Most of my work lives behind client confidentiality or on LinkedIn. What sits he
 
 In-between nimble things. Built in twenty minutes, useful in twenty seconds.
 
-- [claude-code-uhoh-hook](https://gist.github.com/Jarefjaell/7f30611aab068f6e05d840000470b918): drop-in notification hook for Claude Code
+- [claude-code-uhoh-hook](https://gist.github.com/Jarefjaell/fc725b635c8284e94d10ac9a71e3a39d): drop-in notification hook for Claude Code
 
 ## Projects
 
